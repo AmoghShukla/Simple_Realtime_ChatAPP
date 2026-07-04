@@ -180,9 +180,3 @@ This project demonstrates:
 **Amogh Shukla**
 
 - GitHub: https://github.com/AmoghShukla
-
----
-
-## License
-
-This project is licensed under the MIT License.
