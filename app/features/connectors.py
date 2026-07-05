@@ -8,7 +8,7 @@ router = APIRouter(tags=["ChatRoom"])
 
 @router.websocket("/ws")
 async def websocket_endpoint(websocket: WebSocket):
-    client_id = random.randint(1111111111, 9999999999)
+    client_id = random.randint(111111111, 999999999)
 
     await manager.connect(websocket)
 
